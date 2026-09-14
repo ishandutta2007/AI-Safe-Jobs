@@ -61,8 +61,12 @@ Below is a detailed breakdown of careers, their primary categories, human-exclus
 | 🦮 **Dog Trainer / Animal Behaviorist** | Animal Care & Services | In-person animal body language reading, physical behavioral correction | Very Low | Medium (Hands-on Experience) |
 | 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor. Having said that we have brick laying robots already | Medium | Medium (Physical Strength & Craft) |
 | 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art. Having said that we have robotic chefs already | Medium | Medium (Culinary Mastery & Kitchen) |
-| 🧑‍🚒 **Firefighter** | Public Safety / Emergency Services | Dynamic emergency rescue, hazardous physical intervention, lives at risk. Having said that in long run all such risky jobs be it military, minining or firefighting will be done mostly by robtos | Medium | High (Physical Fitness & Training) |
-
+| ⛽ **Gas Station / EV Charging Station Owner** | Energy & Retail / Asset Owner | Real estate ownership, fuel/power distribution rights, retail franchise equity | Very Low | Very High (Property & Energy Infrastructure) |
+| 🧺 **Laundromat Owner** | Consumer Services / Asset Owner | Physical commercial real estate, self-service equipment capital, passive cash flow | Very Low | High (Real Estate & Machinery Capital) |
+| 🔒 **Self-Storage Facility Owner** | Real Estate / Asset Owner | Real property ownership, low-labor facility capital, storage lease rights | Very Low | Very High (Real Estate & Capital) |
+| 🚗 **Car Wash Owner** *(Automated/Self-Serve)* | Automotive Services / Asset Owner | Physical site ownership, automated equipment capital, location rights | Very Low | High (Property & Equipment Capital) |
+| 🏋️ **Gym / Fitness Center Owner** | Wellness & Fitness / Asset Owner | Commercial lease/property, equipment assets, community membership equity | Very Low | High (Commercial Real Estate & Capital) |
+| 📽️ **Movie Theater / Cinema Owner** | Entertainment / Asset Owner | Commercial venue real estate, distribution rights, event space ownership | Very Low | Very High (Venue Property & Capital) |
 
 ---
 
