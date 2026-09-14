@@ -57,9 +57,9 @@ Below is a detailed breakdown of careers, their primary categories, human-exclus
 | 🧑‍🚒 **Firefighter** | Public Safety / Emergency Services | Dynamic emergency rescue, hazardous physical intervention, lives at risk | Very Low | High (Physical Fitness & Training) |
 | 🥽 **Commercial Diver** | Marine / Infrastructure | Underwater repairs, extreme pressure environments, physical inspection | Very Low | High (Specialized Diving Gear & Risk) |
 | 🥋 **Martial Arts Instructor** | Sports & Personal Coaching | Hands-on physical technique correction, sparring, personal mentorship | Very Low | Medium (Physical Expertise & Dojo) |
-| 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art | Low | Medium (Culinary Mastery & Kitchen) |
+| 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art. Having said that we have robotic chefs already | Low | Medium (Culinary Mastery & Kitchen) |
 | 📐 **Land Surveyor** | Civil Engineering & Construction | Outdoor rugged terrain physical measurements, boundary legal certification | Very Low | High (Field Gear & Legal License) |
-| 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor | Very Low | Medium (Physical Strength & Craft) |
+| 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor. Having said that we have brick laying robots already | Low | Medium (Physical Strength & Craft) |
 | 💆 **Massage Therapist** | Wellness & Personal Care | Physical tactile feedback, bodywork manipulation, human comfort | Very Low | Medium (Physical Presence & Touch) |
 | 🦮 **Dog Trainer / Animal Behaviorist** | Animal Care & Services | In-person animal body language reading, physical behavioral correction | Very Low | Medium (Hands-on Experience) |
 
