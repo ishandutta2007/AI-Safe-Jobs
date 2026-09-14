@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#311042"/>
+    </linearGradient>
+    
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <radialGradient id="shield-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .title {
+        font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 54px;
+        font-weight: 900;
+        fill: url(#text-grad);
+        letter-spacing: 2px;
+      }
+      .subtitle {
+        font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        fill: #94a3b8;
+        letter-spacing: 1px;
+      }
+      .tagline {
+        font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        fill: #38bdf8;
+      }
+      .pulse-circle {
+        animation: pulse 3s ease-in-out infinite alternate;
+      }
+      .orbit-ring {
+        transform-origin: 1000px 160px;
+        animation: rotate 20s linear infinite;
+      }
+      .float-icon {
+        animation: float 4s ease-in-out infinite alternate;
+      }
+      .grid-line {
+        stroke: #334155;
+        stroke-width: 0.5;
+        opacity: 0.3;
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        100% { transform: translateY(-10px); }
+      }
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="1200" height="320" fill="url(#bg-grad)" rx="16"/>
+
+  <!-- Tech Grid Background -->
+  <g class="grid">
+    <line x1="0" y1="80" x2="1200" y2="80" class="grid-line"/>
+    <line x1="0" y1="160" x2="1200" y2="160" class="grid-line"/>
+    <line x1="0" y1="240" x2="1200" y2="240" class="grid-line"/>
+    <line x1="300" y1="0" x2="300" y2="320" class="grid-line"/>
+    <line x1="600" y1="0" x2="600" y2="320" class="grid-line"/>
+    <line x1="900" y1="0" x2="900" y2="320" class="grid-line"/>
+  </g>
+
+  <!-- Glowing Background Orbs -->
+  <circle cx="1000" cy="160" r="140" fill="url(#shield-glow)"/>
+  <circle cx="200" cy="100" r="100" fill="url(#shield-glow)"/>
+
+  <!-- Right Graphic: AI Safe Shield Illustration -->
+  <g class="float-icon" transform="translate(900, 60)">
+    <!-- Outer Shield -->
+    <path d="M100 10 L170 40 V100 C170 155 100 190 100 190 C100 190 30 155 30 100 V40 Z" 
+          fill="none" stroke="#818cf8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Inner Shield Accent -->
+    <path d="M100 25 L155 50 V100 C155 142 100 170 100 170 C100 170 45 142 45 100 V50 Z" 
+          fill="#1e1b4b" stroke="#38bdf8" stroke-width="2" opacity="0.8"/>
+    <!-- Checkmark & Lock Icon -->
+    <path d="M80 95 L95 110 L125 75" fill="none" stroke="#4ade80" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Orbiting Nodes -->
+    <circle cx="100" cy="10" r="6" fill="#38bdf8"/>
+    <circle cx="170" cy="100" r="5" fill="#c084fc"/>
+    <circle cx="30" cy="100" r="5" fill="#818cf8"/>
+  </g>
+
+  <!-- Left Content Area -->
+  <g transform="translate(80, 0)">
+    <!-- Tagline Badge -->
+    <g transform="translate(0, 65)">
+      <rect width="280" height="32" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="1.5"/>
+      <text x="140" y="21" text-anchor="middle" class="tagline">🛡️ FUTURE-PROOF CAREERS</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="0" y="155" class="title">AI-SAFE JOBS</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="200" class="subtitle">Careers &amp; Asset Roles Resilient to Automation</text>
+
+    <!-- Category Pills -->
+    <g transform="translate(0, 230)">
+      <!-- Pill 1 -->
+      <rect x="0" y="0" width="130" height="30" rx="8" fill="#334155" opacity="0.8"/>
+      <text x="65" y="20" fill="#f8fafc" font-size="13" font-weight="600" font-family="system-ui" text-anchor="middle">⚙️ Skilled Trades</text>
+
+      <!-- Pill 2 -->
+      <rect x="140" y="0" width="140" height="30" rx="8" fill="#334155" opacity="0.8"/>
+      <text x="210" y="20" fill="#f8fafc" font-size="13" font-weight="600" font-family="system-ui" text-anchor="middle">🏛️ Legal &amp; Ethics</text>
+
+      <!-- Pill 3 -->
+      <rect x="290" y="0" width="150" height="30" rx="8" fill="#334155" opacity="0.8"/>
+      <text x="365" y="20" fill="#f8fafc" font-size="13" font-weight="600" font-family="system-ui" text-anchor="middle">📈 Asset Ownership</text>
+
+      <!-- Pill 4 -->
+      <rect x="450" y="0" width="150" height="30" rx="8" fill="#334155" opacity="0.8"/>
+      <text x="525" y="20" fill="#f8fafc" font-size="13" font-weight="600" font-family="system-ui" text-anchor="middle">❤️ Human Touch</text>
+    </g>
+  </g>
+</svg>
