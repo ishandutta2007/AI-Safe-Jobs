@@ -59,9 +59,9 @@ Below is a detailed breakdown of careers, their primary categories, human-exclus
 | 📐 **Land Surveyor** | Civil Engineering & Construction | Outdoor rugged terrain physical measurements, boundary legal certification | Very Low | High (Field Gear & Legal License) |
 | 💆 **Massage Therapist** | Wellness & Personal Care | Physical tactile feedback, bodywork manipulation, human comfort | Very Low | Medium (Physical Presence & Touch) |
 | 🦮 **Dog Trainer / Animal Behaviorist** | Animal Care & Services | In-person animal body language reading, physical behavioral correction | Very Low | Medium (Hands-on Experience) |
-| 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor. Having said that we have brick laying robots already | Moderate | Medium (Physical Strength & Craft) |
-| 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art. Having said that we have robotic chefs already | Moderate | Medium (Culinary Mastery & Kitchen) |
-| 🧑‍🚒 **Firefighter** | Public Safety / Emergency Services | Dynamic emergency rescue, hazardous physical intervention, lives at risk. Having said that in long run all such risky jobs be it military, minining or firefighting will be done mostly by robtos | Moderate | High (Physical Fitness & Training) |
+| 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor. Having said that we have brick laying robots already | Medium | Medium (Physical Strength & Craft) |
+| 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art. Having said that we have robotic chefs already | Medium | Medium (Culinary Mastery & Kitchen) |
+| 🧑‍🚒 **Firefighter** | Public Safety / Emergency Services | Dynamic emergency rescue, hazardous physical intervention, lives at risk. Having said that in long run all such risky jobs be it military, minining or firefighting will be done mostly by robtos | Medium | High (Physical Fitness & Training) |
 
 
 ---
