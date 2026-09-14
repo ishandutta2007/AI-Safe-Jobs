@@ -54,14 +54,14 @@ Below is a detailed breakdown of careers, their primary categories, human-exclus
 | ✈️ **Cabin Crew** *(esp. Air hostess)* | Aviation / Safety & Service | In-flight emergency handling, physical passenger safety & hospitality | Low | High (Physical Training & Presence) |
 | ⛪ **Priest / Pastor** | Religion & Spirituality | Spiritual authority, faith leadership, human empathy & grief support | Very Low | High (Community & Faith Trust) |
 | 🔮 **Psychic** | Personal Services / Entertainment | In-person intuition, personal human counseling & performance | Very Low | Low (Personal Connection) |
-| 🧑‍🚒 **Firefighter** | Public Safety / Emergency Services | Dynamic emergency rescue, hazardous physical intervention, lives at risk. Having said that in long run all such risky jobs be it military, minining or firefighting will be done mostly by robtos | Moderate | High (Physical Fitness & Training) |
 | 🥽 **Commercial Diver** | Marine / Infrastructure | Underwater repairs, extreme pressure environments, physical inspection | Very Low | High (Specialized Diving Gear & Risk) |
 | 🥋 **Martial Arts Instructor** | Sports & Personal Coaching | Hands-on physical technique correction, sparring, personal mentorship | Very Low | Medium (Physical Expertise & Dojo) |
-| 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art. Having said that we have robotic chefs already | Moderate | Medium (Culinary Mastery & Kitchen) |
 | 📐 **Land Surveyor** | Civil Engineering & Construction | Outdoor rugged terrain physical measurements, boundary legal certification | Very Low | High (Field Gear & Legal License) |
-| 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor. Having said that we have brick laying robots already | Moderate | Medium (Physical Strength & Craft) |
 | 💆 **Massage Therapist** | Wellness & Personal Care | Physical tactile feedback, bodywork manipulation, human comfort | Very Low | Medium (Physical Presence & Touch) |
 | 🦮 **Dog Trainer / Animal Behaviorist** | Animal Care & Services | In-person animal body language reading, physical behavioral correction | Very Low | Medium (Hands-on Experience) |
+| 🧱 **Mason / Bricklayer** | Skilled Trades | Non-standard masonry, structural physical restoration, manual labor. Having said that we have brick laying robots already | Moderate | Medium (Physical Strength & Craft) |
+| 🧑‍🍳 **Executive Chef** *(Fine Dining)* | Culinary & Hospitality | Multi-sensorial taste creation, kitchen leadership, live culinary art. Having said that we have robotic chefs already | Moderate | Medium (Culinary Mastery & Kitchen) |
+| 🧑‍🚒 **Firefighter** | Public Safety / Emergency Services | Dynamic emergency rescue, hazardous physical intervention, lives at risk. Having said that in long run all such risky jobs be it military, minining or firefighting will be done mostly by robtos | Moderate | High (Physical Fitness & Training) |
 
 
 ---
